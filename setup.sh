@@ -1,7 +1,6 @@
 mkdir -p ~/streamlit/
 
-echo="\
-# Streamlit configuration
+echo"\
 [server]\n\
 port = $PORT\n\
 headless = true\n\
