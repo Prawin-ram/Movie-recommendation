@@ -1,6 +1,6 @@
 mkdir -p ~/streamlit/
 
-echo"\
+echo "\
 [server]\n\
 port = $PORT\n\
 headless = true\n\
