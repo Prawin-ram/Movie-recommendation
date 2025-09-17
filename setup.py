@@ -22,5 +22,5 @@ setup(
     packages=[SRC_REPO],
     python_requries=python>=3.7,
     install_requries=[LIST_OF_REQUIRMENT],
-
+    python = ...
 )
