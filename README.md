@@ -28,7 +28,18 @@ This is a Streamlit-powered web app that recommends movies based on user prefere
 The app uses collaborative filtering and/or content-based filtering to suggest movies based on user input. You can tweak the algorithm in `app.py`.
 
 ## 🧪 Try It Yourself
-1. Clone the repo:
+
+1. Pre-Install the Requirements:
+   ```bash
+   pip install -r requirements.txt
+
+
+2. Clone the repo:
    ```bash
    git clone https://github.com/Prawin-ram/Movie-recommendation.git
    cd Movie-recommendation
+
+1. Run the app:
+   ```bash
+   streamlit run app.py
+
